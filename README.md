@@ -3,7 +3,7 @@
 🔗 **Live App**: [Heart Disease Predictor on Hugging Face Spaces](https://suman892757-heart-disease-prediction.hf.space/?__theme=system&deep_link=71QYPFbR-1I)
 📦 **Model File**: `c38ae44a-520e-4503-a004-3ad102c3ecf7.joblib`
 
-Now, here’s a complete and professional `README.md` file you can use for your GitHub repository:
+Now, here’s a complete and professional `README.md` file for GitHub repository:
 
 ````markdown
 # ❤️ Heart Disease Prediction Web App
